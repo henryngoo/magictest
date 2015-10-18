@@ -1,0 +1,15 @@
+{
+  "name": "Magic Test",
+  "version": "1.0",
+  "authors": [
+    "Phuong Ngo <fuongit@gmail.com>"
+  ],
+  "description": "The sample test project from MagicGroup",
+  "license": "MIT",
+  "private": true,
+  "homepage": "http://magictest.local",
+  "dependencies": {
+    "bootstrap": "~3.3.2",
+    "font-awesome": "~4.3.0"
+  }
+}
