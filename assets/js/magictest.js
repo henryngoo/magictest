@@ -235,5 +235,5 @@ jQuery.extend(true, magictest, {
 
 // Init
 jQuery(document).ready(function() {
-
+    magictest.init('body');
 });
