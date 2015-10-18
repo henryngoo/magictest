@@ -14,3 +14,7 @@ Magic Test is a smaple test project, it used to check the code style and quality
 > - Sass
 > - jQuery
 > - CSS
+
+#### <i class="icon-pencil"></i> Configurations
+
+Download and unzip to any folder in your webroot folder,  then config changes Database and Site URL from **/config.php** file. Import database from schema at **/schema** folder.
